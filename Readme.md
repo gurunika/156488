@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Veronica Gurudova](https://up.htmlacademy.ru/adaptive/6/user/156488).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Старшинов`.
 
 ---
 
